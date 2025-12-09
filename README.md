@@ -2,6 +2,10 @@
 
 A professional-grade Streamlit application for Voice of Customer Analytics that analyzes customer reviews, visualizes sentiment trends, and generates AI-powered executive summaries using Google Gemini.
 
+## 🌐 Live Application
+
+**Access the live application:** [https://voice-of-customer-analytics.streamlit.app/](https://voice-of-customer-analytics.streamlit.app/)
+
 ## Features
 
 - 📊 **Interactive Dashboard** with real-time sentiment analysis
